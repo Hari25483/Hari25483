@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hariharan Raveenthiran
 - 👀 I’m interested in A.I, and Gaming.
-- 🌱 I’m currently learning Computer Engineering at University of Peradeniya.
+- 🌱 I’m currently learning Computer Engineering as an undergraduate at University of Peradeniya.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... haricodmw@gmail.com
 
