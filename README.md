@@ -1,15 +1,42 @@
-- 👋 Hi, I’m @Hariharan Raveenthiran
-- 👀 I’m interested in Machine Learning, Deep Learning and Gaming.
-- 🌱 I’m currently learning Computer Engineering as an undergraduate at the University of Peradeniya.
-- 🌱 I’m currently working as a Research Assistant at Singapore University of Technology, and Design in Robotics, Deep Learning, and Reinforcement Learning.
-- 💞️ I’m looking to collaborate on Machine learning and Deep Learning projects.
-- 📫 You can reach me through https://www.linkedin.com/in/hariharan-raveenthiran-77a4221ab/, haricodmw@gmail.com
+# 👋 Hi, I’m Hariharan Raveenthiran
 
-<!---
-Hari25483/Hari25483 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate about building intelligent systems at the intersection of **AI, Deep Learning, and Robotics**.  
+Currently working as an **AI Engineer at OncoTech**, creating medtech solutions while also leading and contributing to global research and engineering teams.
+
+---
+
+## 👨‍💻 About Me
+- 🎓 **BSc (Hons) in Computer Engineering** — University of Peradeniya (First Class Honours, GPA 3.80/4.0)  
+- 💼 **Current Roles**:  
+  - AI Engineer @ **OncoTech** (Sweden, UK — Hybrid)  
+  - Software Engineer @ **QuantFi.World** (Remote)  
+  - AI Division Lead & Overseas Project Supervisor @ **The Silverback Team**  
+- 🔬 **Past Experience**:  
+  - Research Assistant @ **Singapore University of Technology and Design (SUTD)**  
+  - Research Intern @ **Tokyo Institute of Technology**  
+  - Lead Engineer @ **Allied Future Tech**  
+  - Head of Business Development @ **Eureka Innovations**  
+
+- 👀 **Interests**: Machine Learning, Deep Learning, Reinforcement Learning, Robotics, Computer Vision, and Gaming.  
+- 🌍 **Open to collaborate** on AI/ML research and engineering projects.  
+
+📫 Reach me:  
+- [LinkedIn](https://www.linkedin.com/in/hariharan-raveenthiran-77a4221ab/)  
+- 📧 haricodmw@gmail.com  
+
+---
+
+## 🛠️ Tech & Tools
+**Languages & Frameworks**  
+`Python` `C++` `TensorFlow` `PyTorch` `Keras` `ROS` `OpenCV` `scikit-learn`  
+
+**Domains**  
+`Deep Learning` `Reinforcement Learning` `Computer Vision` `NLP` `Data Science`  
+
+**Other Tools**  
+`Git` `Docker` `Linux` `Microcontrollers`  
 
 
+⭐️ *“Building the future with code, research, and innovation.”*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari25483&theme=radical)
+
