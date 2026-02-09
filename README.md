@@ -1,4 +1,4 @@
-#👋 Hi, I’m Hariharan Raveenthiran  
+👋 Hi, I’m Hariharan Raveenthiran  
 
 AI Engineer building the world’s first AI-powered early cancer detection system at OncoTech, leading and contributing to global research and engineering teams, and engineered a trading algorithm at QuantFi with a 100% win rate over the past 1.5 years while scaling its production infrastructure.
 
