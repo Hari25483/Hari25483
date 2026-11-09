@@ -1,42 +1,48 @@
-👋 Hi, I’m Hariharan Raveenthiran  
+<div align="center">
 
-AI Engineer building the world’s first AI-powered early cancer detection system at OncoTech, leading and contributing to global research and engineering teams, and engineered a trading algorithm at QuantFi with a 100% win rate over the past 1.5 years while scaling its production infrastructure.
+# Hariharan Raveenthiran
 
----
+**AI Engineer at OncoTech · CTO at QuantFi**
 
-## 👨‍💻 About Me
-- 🎓 **BSc (Hons) in Computer Engineering** — University of Peradeniya (First Class Honours, GPA 3.80/4.0)  
-- 💼 **Current Roles**:  
-  - AI Engineer @ **OncoTech** (Sweden, UK — Hybrid)  
-  - CTO @ **QuantFi.World** (Remote)  
-- 🔬 **Past Experience**:
-  - AI Division Lead & Overseas Project Supervisor @ **The Silverback Team**
-  - Research Assistant @ **Singapore University of Technology and Design (SUTD)**  
-  - Research Intern @ **Tokyo Institute of Technology**  
-  - Lead Engineer @ **Allied Future Tech**  
-  - Head of Business Development @ **Eureka Innovations**
-  
+I build AI systems for problems where being wrong is expensive, from early cancer detection to live trading.
 
-- 👀 **Interests**: Machine Learning, Deep Learning, Reinforcement Learning, Robotics, Computer Vision, and Gaming.  
-- 🌍 **Open to collaborate** on AI/ML research and engineering projects.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariharan-raveenthiran-77a4221ab/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haricodmw@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=Hari25483&style=flat-square&color=555555&label=views)](https://github.com/Hari25483)
 
-📫 Reach me:  
-- [LinkedIn](https://www.linkedin.com/in/hariharan-raveenthiran-77a4221ab/)  
-- 📧 haricodmw@gmail.com  
+</div>
 
----
+## What I'm working on
 
-## 🛠️ Tech & Tools
-**Languages & Frameworks**  
-`Python` `C++` `TensorFlow` `PyTorch` `Keras` `ROS` `OpenCV` `scikit-learn`  
+| | |
+|---|---|
+| 🧬 **OncoTech** | Building an AI-powered early cancer detection system with research and engineering teams across Sweden and the UK. |
+| 📈 **QuantFi.World** | As CTO, I lead the trading algorithm, the copy-trading engine, and the production infrastructure behind them. |
 
-**Domains**  
-`Deep Learning` `Reinforcement Learning` `Computer Vision` `NLP` `Data Science`  
+## Stack
 
-**Other Tools**  
-`Git` `Docker` `Linux` `Microcontrollers`  
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,pytorch,tensorflow,opencv,sklearn,ros&perline=8" alt="Python, C++, TypeScript, PyTorch, TensorFlow, OpenCV, scikit-learn, ROS" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,postgres,aws,docker,linux,git,flutter&perline=8" alt="FastAPI, Next.js, PostgreSQL, AWS, Docker, Linux, Git, Flutter" />
+</p>
 
+**Focus areas:** deep learning · computer vision · reinforcement learning · NLP · robotics · production ML systems
 
-⭐️ *“Building the future with engineering, research, and innovation.”*
+## Background
 
+| Role | Organisation |
+|---|---|
+| AI Engineer | OncoTech (Sweden and UK, hybrid) |
+| CTO | QuantFi.World (remote) |
+| AI Division Lead and Overseas Project Supervisor | The Silverback Team |
+| Research Assistant | Singapore University of Technology and Design |
+| Research Intern | Tokyo Institute of Technology |
+| Lead Engineer | Allied Future Tech |
+| Head of Business Development | Eureka Innovations |
 
+🎓 **BSc (Hons) Computer Engineering**, University of Peradeniya. First Class Honours, GPA 3.80/4.0.
+
+## Let's talk
+
+I'm open to collaborating on AI/ML research and hard engineering problems. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/hariharan-raveenthiran-77a4221ab/) or [email](mailto:haricodmw@gmail.com).
